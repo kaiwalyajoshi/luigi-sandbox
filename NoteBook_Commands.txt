@@ -1,0 +1,3 @@
+PYTHONPATH=.
+python run_luigi.py SquaredNumbers
+python demo.py
