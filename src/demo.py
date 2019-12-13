@@ -72,4 +72,4 @@ class GenerateAllCountriesRevenue(luigi.Task):
 
 
 if __name__ == "__main__":
-        luigi.run(['examples.GenerateAllCountriesRevenue', '--workers', '8'])
+        luigi.run(['examples.GenerateAllCountriesRevenue', '--workers', '4'])
