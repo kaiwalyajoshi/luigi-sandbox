@@ -1,3 +1,6 @@
+Start Luigid: ./luigid/start_luigid.sh
+Luigi Dashboard: http://localhost:8082/static/visualiser/index.html
+
 PYTHONPATH=.
 python run_luigi.py SquaredNumbers
 python demo.py
